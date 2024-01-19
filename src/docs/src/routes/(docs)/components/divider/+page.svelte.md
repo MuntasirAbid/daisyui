@@ -150,3 +150,13 @@ data="{[
 </div>`
 }</pre>
 </Component>
+
+<Component title="Responsive gradiant devider(horizontal)" >
+
+   <div className="my-2 flex items-center justify-center">
+                    <div className="bg-gradient-to-r from-purple-400 via-purple-600 h-1 w-16 md:w-40 lg:w-64"></div>
+                    <div className='divider text-sm text-purple-500 px-4'>Gradiant Divider</div>
+                    <div className="bg-gradient-to-l from-purple-600 via-purple-400 h-1 w-16 md:w-40 lg:w-64"></div>
+                </div>
+
+<Component/>
